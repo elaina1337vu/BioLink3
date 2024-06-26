@@ -1,21 +1,21 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "media/vynaa.jpg", // Path ke favicon
-  title: "Vynaa Valerie | Profile", // Judul halaman
-  metaTitle: "Vynaa || Profile", // Meta title untuk SEO
-  metaDescription: "Profile Website Vynaa Valerie, Creator and Dev", // Deskripsi meta untuk SEO
-  metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
+  title: "Fxzen.vu | Profile", // Judul halaman
+  metaTitle: "Fxzen.vu || Profile", // Meta title untuk SEO
+  metaDescription: "Profile Website Fxzen.vu, Creator and Dev", // Deskripsi meta untuk SEO
+  metaKeywords: "Fxzen.vu, hoshino takanashi, profile fxzen, siapa fxzen?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/vynaa.jpg", // Path ke gambar profil
-  name: "Vynaa Valerie", // Nama profil
+  name: "Fxzen.vu", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
-    { title: "GitHub", url: "https://github.com/VynaaValerie", icon: "fa-github" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/vynaa_valerie", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/VLShop2", icon: "fa-telegram" }, // Tautan Telegram
-    { title: "Email", url: "mailto:vynaavalerie@example.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "WhatsApp", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "YouTube", url: "https://youtube.com/@VynaaChan", icon: "fa-youtube" } // Tautan YouTube
+    { title: "GitHub", url: "elaina1337vu", icon: "fa-github" }, // Tautan GitHub
+    { title: "Instagram", url: "https://www.instagram.com/fxzen.vu", icon: "fa-instagram" }, // Tautan Instagram
+    { title: "Telegram", url: "https://t.me/ApkmodBot", icon: "fa-telegram" }, // Tautan Telegram
+    { title: "Email", url: "mailto:Kayzen1337z@gmail.com", icon: "fa-envelope" }, // Tautan Email
+    { title: "WhatsApp", url: "https://wa.me/6283179799943?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "YouTube", url: "https://youtube.com/@kayzenzen49", icon: "fa-youtube" } // Tautan YouTube
   ]
 };
 
