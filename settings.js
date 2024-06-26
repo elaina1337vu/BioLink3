@@ -12,7 +12,7 @@ const profileSettings = {
   links: [
     { title: "GitHub", url: "elaina1337vu", icon: "fa-github" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/fxzen.vu", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/ApkmodBot", icon: "fa-telegram" }, // Tautan Telegram
+    { title: "Telegram", url: "https://t.me/apkmodzBoot", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:Kayzen1337z@gmail.com", icon: "fa-envelope" }, // Tautan Email
     { title: "WhatsApp", url: "https://wa.me/6283179799943?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "YouTube", url: "https://youtube.com/@kayzenzen49", icon: "fa-youtube" } // Tautan YouTube
